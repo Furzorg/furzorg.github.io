@@ -1,9 +1,7 @@
-# A propos de moi
+Bienvenue sur le site de Furzorg
 
+# Contact
 
-
-# Fragon
-
-## Introduction
-
-Fragon est un bot discord. 
+- Twitter : @Furzorg
+- Twitch : twitch.tv/furzorg
+- Instagram : @furzorg

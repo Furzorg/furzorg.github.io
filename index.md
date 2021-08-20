@@ -1,4 +1,21 @@
-Bienvenue sur le site de Furzorg
+Bienvenue sur le site de Furzorg.
+
+# Développements
+
+## FCiv6
+
+**FCiv6** est un bot discord fournissant des outils pour jouer à **CIVILIZATION VI**.
+Les principales fonctionnalités sont la répartition des dirigeants (leaders) et la création du lobby pré-game.
+
+## Fragon
+
+**Fragon** est un bot discord fournissant des outils pour jouer à **Donjons et Dragons 5**.
+
+## FTools
+
+**FTools**
+
+Work in progress
 
 # Contact
 

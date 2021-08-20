@@ -1,3 +1,9 @@
-## Pierre Cabanis
+# A propos de moi
 
-Work in progress
+
+
+# Fragon
+
+## Introduction
+
+Fragon est un bot discord. 

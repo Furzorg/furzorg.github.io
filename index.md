@@ -9,7 +9,7 @@ Les principales fonctionnalités sont la répartition des dirigeants (leaders) e
 
 ## Fragon
 
-**Fragon** est un bot discord fournissant des outils pour jouer à **Donjons et Dragons 5**.
+**[Fragon](https://furzorg.github.io/fragon)** est un bot discord fournissant des outils pour jouer à **Donjons et Dragons 5**.
 
 ## FTools
 

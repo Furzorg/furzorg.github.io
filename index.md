@@ -32,7 +32,7 @@ Work in progress
 
 Avec des camarades, en stream, on avait imaginé un meilleur League of Legends : Reforged League of Legends (via @TierMaker).
 
-(/images/reforgedlol.png "Reforged League of Legends"))
+![Image Reforged LoL](/images/reforgedlol.png "Reforged League of Legends").
 
 # Contact
 

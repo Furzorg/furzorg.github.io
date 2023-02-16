@@ -9,11 +9,9 @@ Peut-être un jour !
 
 # Développements
 
-## OutThere
+## Orion IA
 
-**OutThere**
-
-Work in progress
+**Orion IA** est un bot discord fournissant des outils pour jouer au jeu de rôle **Out There**.
 
 ## FCiv6
 
@@ -24,13 +22,7 @@ Les principales fonctionnalités sont la répartition des dirigeants (leaders) e
 
 **[Fragon](https://furzorg.github.io/fragon)** était initialement un bot discord fournissant des outils pour jouer à **Donjons et Dragons 5**. Le but étant de charger un personnage par joueur et de pourvoir faire des lancés de dé avec des commandes (attaque, compétance, dégât, ...). Finalement, d'autres outils plus pratique ont été développés par d'autres personnes. (Vous pouvez aller voir sur [aidedd](https://www.aidedd.org/))
 
-## FTools
-
-**FTools**
-
-Work in progress
-
-# Stream
+# Streams
 
 ## Les "Tier-list"
 

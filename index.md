@@ -1,6 +1,6 @@
 Bienvenue sur le site de Furzorg.
 
-Dernière actualisation : janvier 2023
+Dernière actualisation : février 2023
 
 Bonjour, ce site regroupe différentes choses que je peux faire sur internet. 
 C'est pas forcément interressant mais c'est là. 
@@ -36,7 +36,11 @@ Avec des camarades, en stream, on avait imaginé un meilleur League of Legends :
 
 ![Image Reforged LoL](/images/reforgedlol.png "Reforged League of Legends")
 
-# Contact
+# Playlists
+
+Mes playlists sur [Deezer](https://www.deezer.com/fr/profile/2087471262/playlists)
+
+# Liens
 
 - Twitter : [@Furzorg](https://twitter.com/Furzorg)
 - Twitch : [furzorg](https://twitch.tv/furzorg)

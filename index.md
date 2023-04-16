@@ -1,6 +1,6 @@
 Bienvenue sur le site de Furzorg.
 
-Dernière actualisation : février 2023
+Dernière actualisation : avril 2023
 
 Bonjour, ce site regroupe différentes choses que je peux faire sur internet. 
 C'est pas forcément interressant mais c'est là. 
@@ -8,6 +8,14 @@ J'aimerais prendre le temps d'étoffer ça.
 Peut-être un jour !
 
 # Développements
+
+## Cinegenda
+
+wip
+
+## Frise-zg
+
+wip
 
 ## Orion IA
 

@@ -1,12 +1,14 @@
 # Développements
 
+Quand j'ai le temps, il m'arrive de coder. Voici une liste des 
+
 ## Cinegenda
 
-wip
+**Cinegenda** est une application permettant à son utilisateur de construire un agenda des séances de cinéma.
 
 ## Frise-zg
 
-wip
+**Frise-zg** est une application capable de générer une frise chronologique à partir d'un fichier json.
 
 ## Orion IA
 

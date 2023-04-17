@@ -32,17 +32,7 @@ Les principales fonctionnalités sont la répartition des dirigeants (leaders) e
 
 # Streams
 
-## Les "Tier-list"
-
-### Tri des champions de League of Legends par famille politique (2020)
-
-![Image Politique LoL](/images/politiquelol.png "Les familles politiques des champions de League of Legends")
-
-### Reforged League of Legends (2020)
-
-Avec des camarades, en stream, on avait imaginé un meilleur League of Legends : Reforged League of Legends (via @TierMaker).
-
-![Image Reforged LoL](/images/reforgedlol.png "Reforged League of Legends")
+**[Lien vers la page dédiée](https://furzorg.github.io/Streams)**
 
 # Playlists
 

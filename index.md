@@ -1,6 +1,6 @@
-Bienvenue sur le site de Furzorg.
+Bienvenue sur le site mon site !
 
-Dernière actualisation : avril 2023
+*Dernière actualisation : avril 2023*
 
 Bonjour, ce site regroupe différentes choses que je peux faire sur internet. 
 C'est pas forcément interressant mais c'est là. 

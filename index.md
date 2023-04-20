@@ -15,6 +15,18 @@ Peut-être un jour !
 
 **[Lien vers la page dédiée](https://furzorg.github.io/Streams)**
 
+# Frises
+
+Nous nageons dans un flux d'information (ça fait réfléchir).
+C'est pas mal de se remémorer la chronologie des événements.
+Déjà pour se souvenir, mais aussi pour relativiser leur poids médiatique.
+Voilà enfin tout ça pour vous faire part de ma modeste contribution.
+N'hésitez pas à me contacter sur Twitter si vous constatez des conneries.
+
+Liste des frises
+- [Réforme des retraites (2023)](https://furzorg.github.io/RdR) : (cette frise est en cours)
+- Historique 2023 : (dévoilé fin 2023)
+
 # Playlists
 
 Mes playlists sur [Deezer](https://www.deezer.com/fr/profile/2087471262/playlists)

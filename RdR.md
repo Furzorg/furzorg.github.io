@@ -1,6 +1,6 @@
 # Réforme des retraites
 
-Cette page est une prise de note sous forme de frise chronologique consernant la réforme des retraites porté par le ministre du travail Olivier Dussopt du gouvernement de la permière ministre Elisabeth Borne.
+Cette page est une prise de note sous forme de frise chronologique consernant la réforme des retraites de 2023.
 
 ## Frise
 
@@ -10,12 +10,12 @@ Cette page est une prise de note sous forme de frise chronologique consernant la
 
 ### Mardi 17 janvier
 
-**Emmanuel Macron** déjeune avec dix édotorialistes
+**Emmanuel Macron** déjeune avec dix édotorialistes. 
 
 ### Jeudi 19 janvier
 
 Première journée de grève et de manifestation contre la réforme des retraites à l'appel de **l'intersyndicale**.
-Le dénombre donne 1,2 millions de manifestant selon la police et 2 millions selon la CGT.
+Le dénombre donne 1,2 millions de manifestants selon la police et 2 millions selon la CGT.
 
 ### Samedi 21 janvier
 
@@ -32,13 +32,24 @@ Début des débats en commission des affaires sociales
 ### Mardi 31 janvier
 
 Deuxième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**.
-Le dénombre donne 1,272 millions de manifestant selon la police et 2,8 millions selon la CGT.
+Le dénombre donne 1,272 millions de manifestants selon la police et 2,8 millions selon la CGT.
 
 ### Mercredi 1 février
 
 Fin des débats en commission des affaires sociales
 
-### TODO
+### Vendredi 3 février
+
+**Olivier Dussopt** a toute la confiance de la Première ministre (Matignon)
+
+### Lundi 6 février
+
+Début des débats en séance publique
+
+### Mardi 7 février
+
+Troisième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+Le dénombre donne 1,272 millions de manifestants selon la police et 2,8 millions selon la CGT.
 
 ### Lundi 17 mars
 

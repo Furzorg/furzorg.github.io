@@ -14,9 +14,29 @@ Cette page est une prise de note sous forme de frise chronologique consernant la
 
 ### Jeudi 19 janvier
 
-Première journée de grève et de manifestation contre la réforme des retraites à l'appel de **l'intersyndicale**
+Première journée de grève et de manifestation contre la réforme des retraites à l'appel de **l'intersyndicale**.
+Le dénombre donne 1,2 millions de manifestant selon la police et 2 millions selon la CGT.
 
+## Samedi 21 janvier
 
+Journée de manifestation contre la réforme des retraites organisée par les associations de jeunesse à Paris
+
+## Lundi 23 janvier
+
+Frank Riester reconnaît dans une émission que la réforme pénalisera “un peu” certaines femmes.
+
+## Lundi 30 janvier
+
+Début des débats en commission des affaires sociales
+
+## Mardi 31 janvier
+
+Deuxième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**.
+Le dénombre donne 1,272 millions de manifestant selon la police et 2,8 millions selon la CGT.
+
+## Mercredi 1 février
+
+Fin des débats en commission des affaires sociales 
 
 ## Annuaire
 

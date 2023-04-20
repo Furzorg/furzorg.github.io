@@ -15,7 +15,6 @@ Cette page est une prise de note sous forme de frise chronologique consernant la
 ### Jeudi 19 janvier
 
 Première journée de grève et de manifestation contre la réforme des retraites à l'appel de **l'intersyndicale**.
-Le dénombre donne 1,2 millions de manifestants selon la police et 2 millions selon la CGT.
 
 ### Samedi 21 janvier
 
@@ -32,7 +31,6 @@ Début des débats en commission des affaires sociales
 ### Mardi 31 janvier
 
 Deuxième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**.
-Le dénombre donne 1,272 millions de manifestants selon la police et 2,8 millions selon la CGT.
 
 ### Mercredi 1 février
 
@@ -49,9 +47,92 @@ Début des débats en séance publique
 ### Mardi 7 février
 
 Troisième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
-Le dénombre donne 1,272 millions de manifestants selon la police et 2,8 millions selon la CGT.
 
-### Lundi 17 mars
+### Vendredi 10 février
+
+Vote de l'article 1 à l'AN : Accepté
+
+### Samedi 11 février
+
+Quatrième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+
+### Mardi 14 février
+
+Vote de l'article 2 à l'AN : Rejeté
+
+### Jeudi 16 février
+
+Cinquième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+
+### Vendredi 17 février
+
+**Olivier Dussopt** déclenche à minuit, l’article 47-1 de la constitution, interrompant les débats sur la réforme des retraites à l'assemblée nationale
+
+### Samedi 18 février
+
+Début des vacances parlementaire - Reprise le 27 février
+
+### Jeudi 2 mars
+
+Début des débats au sénat
+
+### Mardi 7 mars
+
+Sixième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+
+### Mercredi 8 mars
+
+Journée d'action pour la journée des droits des femmes
+
+### Samedi 11 mars
+
+Septième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+
+### Dimanche 12 mars
+
+Fin des débat au sénat
+
+### Mardi 14 mars
+
+Gérald Darmanin a demandé la "réquisition" des éboueurs de Paris
+
+### Mercredi 15 mars
+
+Huitième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+
+### Jeudi 16 mars
+
+La réforme des retraites adopté via le 49-3, manifestation spontané
+
+### Jeudi 23 mars
+
+Neuvième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+
+### Mardi 28 mars
+
+Dixième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
+
+### Mardi 4 avril
+
+Conseil auditionne des députés de gauche et du petit groupe indépendant LIOT
+
+### Mercredi 5 avril
+
+Rencontre entre Elisabeth Borne et l'intersyndicale
+
+### Jeudi 6 avril
+
+Onzième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale*
+
+### Jeudi 13 avril
+
+Douzième journée de grève et de manifestation contre la RdR à l'appel de l'intersyndicale
+
+### Vendredi 14 avril
+
+Fin de l'évaluation par le conseil constitutionnel
+
+### Lundi 17 avril
 
 Dans une allocation enregistré, **Emmanuel Macron**, tente de clôtuer la séquence retraites et souhaite initié trois nouveaux "chantier". 
 Il décrête 100 jours d'apaisement.
@@ -59,7 +140,7 @@ Il se félicite d'avoir tennu son engagement sur la reconstruction de Notre-Dame
 
 A l'initiative d'**Attac**, des concerts de casseroles sont organisé à l'heure de l'allocution (20h) devant des mairies ou des préfectures partout en France.
 
-### Mercredi 19 mars
+### Mercredi 19 avril
 
 La **CGT** retarde les course du Quinté+ en manifestant sur l'hippodrome.
 

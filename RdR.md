@@ -159,6 +159,7 @@ La viste d'**Emmanuel Macron** en Alsace est marquée par des huées. Le courant
 
 - Emmanuel Macron, Président de la République
 - Elisabeth Borne, Première Ministre
+- Gérald Darmanin, Ministre de l'Intérieur
 - Olivier Dussopt, Ministre du Travail, du Plein emploi et de l'Insertion
 - Frank Riester, Ministre chargé des Relations avec le Parlement
 - Olivier Véran, Porte-parole du Gouvernement

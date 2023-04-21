@@ -154,6 +154,12 @@ La **CGT** retarde les course du Quinté+ en manifestant sur l'hippodrome.
 
 La viste d'**Emmanuel Macron** en Alsace est marquée par des huées. Le courant est coupé pendant qu'il visite une usine par la **CGT**.
 
+#### Jeudi 20 avril
+
+Alors en visite dans le collège Louise Michelle de Ganges, Emmanuel Macron est acceuillit pas des manifestants.
+Un important dispositif de gendarmerie est déployé dans la ville de 4000 habitants.
+La préfecture de l'Hérault interdit, grâce au lois anti-terroriste, les "dispositifs sonore portatif".
+Suite à une coupure de courant volontaire organisé par des manifestants, Emmanuel Macron et Pap Ndiaye sont forcé de poursuivre leurs annonce dehors
 
 ## Annuaire
 
@@ -161,6 +167,7 @@ La viste d'**Emmanuel Macron** en Alsace est marquée par des huées. Le courant
 - Elisabeth Borne, Première Ministre
 - Gérald Darmanin, Ministre de l'Intérieur
 - Olivier Dussopt, Ministre du Travail, du Plein emploi et de l'Insertion
+- Pap Ndiaye, Ministre de l'Éducation nationale et de la Jeunesse
 - Frank Riester, Ministre chargé des Relations avec le Parlement
 - Olivier Véran, Porte-parole du Gouvernement
 - Philippe Marinez, Secrétaire général de la CGT jusqu'au 31 mars

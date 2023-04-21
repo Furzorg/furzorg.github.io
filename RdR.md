@@ -8,7 +8,7 @@ Cette page est une prise de note sous forme de frise chronologique consernant la
 
 #### Mardi 10 janvier
 
-**Elisabeth Borne** annonce la réforme des retraites
+**Elisabeth Borne** annonce la réforme des retraites.
 
 #### Mardi 17 janvier
 
@@ -108,7 +108,15 @@ Huitième journée de grève et de manifestation contre la réforme des retraite
 
 #### Jeudi 16 mars
 
-La réforme des retraites adopté via le 49-3, manifestation spontané
+La réforme des retraites adopté via le 49-3. manifestation spontané
+
+#### Vendredi 17 mars
+
+Le groupe **LIOT** dépose une motion de censure dites "transpartisane" car elle est déposé conjointement avec des députés d'autres groupes notament ceux de la **NUPES**. Le **RN** en dépose aussi sa propre motion de censure.
+
+#### Lundi 20 mars
+
+La motion de censure déposée par le groupe **LIOT** échoue à neuf voix près.
 
 #### Jeudi 23 mars
 
@@ -120,21 +128,26 @@ Dixième journée de grève et de manifestation contre la réforme des retraites
 
 ### Avril 2023
 
+#### Samedi 1 avril
+
+**Sophie Binet** prend la tête de la **CGT** et succède à **Philippe Martinez**. 
+Son éléction lors du congrès du syndicat ne laisse pas la place au doute sur sa volonté de faire plier le gouvernement.
+
 #### Mardi 4 avril
 
-Conseil auditionne des députés de gauche et du petit groupe indépendant LIOT
+Le **Conseil Constitutionnel auditionne des députés opposés à la réforme des retraites sur leur demande de référendum.
 
 #### Mercredi 5 avril
 
-Rencontre entre Elisabeth Borne et l'intersyndicale
+La rencontre entre **Elisabeth Borne** et l'**intersyndicale** tourne court. Les syndicats refusent de céder sur le report de l'âge légal à 64 ans.
 
 #### Jeudi 6 avril
 
-Onzième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale*
+Onzième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
 
 #### Jeudi 13 avril
 
-Douzième journée de grève et de manifestation contre la RdR à l'appel de l'intersyndicale
+Douzième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
 
 #### Vendredi 14 avril
 

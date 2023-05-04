@@ -174,7 +174,23 @@ Un important dispositif de gendarmerie est déployé dans la ville de 4000 habit
 La préfecture de l'Hérault interdit, grâce au lois anti-terroriste, les "dispositifs sonore portatif".
 Suite à une coupure de courant volontaire organisé par des manifestants, Emmanuel Macron et Pap Ndiaye sont forcé de poursuivre leurs annonce dehors
 
+### Mai 2023
+
+#### Lundi 1er mai
+
+Fête des travailleurs et des travailleuses.
+
+#### Mardi 2 mai
+
+L'intersyndicale appele à une nouvelle journée de grève et de manifestation le mardi 6 juin.
+
+#### Mercredi 3 mai
+
+Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parlementaires de gauche.
+
 ## Annuaire
+
+### Personnes
 
 - Emmanuel Macron, Président de la République
 - Elisabeth Borne, Première Ministre
@@ -187,9 +203,16 @@ Suite à une coupure de courant volontaire organisé par des manifestants, Emman
 - Sophie Binet, Secrétaire générale de la CGT depuis le 1er avril
 - Laurent Berger, Secrétaire général de la CFDT
 
+### Organisations, groupes
+
 - L'intersydicale : désigne les syndicats de travailleurs (CFDT, CGT, FO, CFE-CGC, CFTC, UNSA et FSU)
 - CGT : syndicat (**C**onfédération **G**énérale du **T**ravail)
 - Attac : organisation altermondialiste (**A**ssociation pour la **t**axation des **t**ransactions financières et pour l'**a**ction **c**itoyenne)
-
 - LIOT, groupe politique de l'Assemblée Nationale (**L**ibertés, **I**ndépendants, **O**utre-mer et **T**erritoires)
 - NUPES, alliance polique regroupant les partis de gauche (**N**ouvelle **U**nion **P**opulaire **E**cologique et **S**ociale)
+
+### Institutions, dispositifs
+
+- CC : **C**onseil **C**onstitutionnel
+- AN : **A**ssemblée **N**ationnale
+- RIP : **R**éférendum d'**I**initiative **P**artagée

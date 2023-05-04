@@ -9,11 +9,11 @@ Peut-être un jour !
 
 # Développements
 
-**[Lien vers la page dédiée](https://furzorg.github.io/Développements)**
+**[Lien vers la page dédiée](https://furzorg.github.io/dev)**
 
 # Streams
 
-**[Lien vers la page dédiée](https://furzorg.github.io/Streams)**
+**[Lien vers la page dédiée](https://furzorg.github.io/streams)**
 
 # Frises
 
@@ -24,7 +24,7 @@ Voilà enfin tout ça pour vous faire part de ma modeste contribution.
 N'hésitez pas à me contacter sur Twitter si vous constatez des conneries.
 
 Liste des frises
-- [Réforme des retraites (2023)](https://furzorg.github.io/RdR) : (cette frise est en cours)
+- [Réforme des retraites (2023)](https://furzorg.github.io/reformedesretraites) : (cette frise est en cours)
 - Historique 2023 : (dévoilé fin 2023)
 
 # Playlists

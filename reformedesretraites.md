@@ -219,7 +219,7 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 - CGT : syndicat (**C**onfédération **G**énérale du **T**ravail)
 - Attac : organisation altermondialiste (**A**ssociation pour la **t**axation des **t**ransactions financières et pour l'**a**ction **c**itoyenne)
 - LIOT, groupe politique de l'Assemblée Nationale (**L**ibertés, **I**ndépendants, **O**utre-mer et **T**erritoires)
-- NUPES, alliance polique regroupant les partis de gauche (**N**ouvelle **U**nion **P**opulaire **E**cologique et **S**ociale)
+- NUPES, alliance politique regroupant les partis de gauche (**N**ouvelle **U**nion **P**opulaire **E**cologique et **S**ociale)
 
 ### Institutions, dispositifs
 

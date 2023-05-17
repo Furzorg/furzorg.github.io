@@ -1,6 +1,6 @@
 # Développements
 
-Quand j'ai le temps, il m'arrive de coder. Voici une liste de certain de mes développements.
+Quand j'ai le temps, il m'arrive de coder. Voici une liste de certains de mes développements.
 
 ## Cinegenda
 

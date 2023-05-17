@@ -188,6 +188,16 @@ L'intersyndicale appele à une nouvelle journée de grève et de manifestation l
 
 Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parlementaires de gauche.
 
+#### Mardi 16 mai
+
+**Elisabeth Borne** reçoit une parie des syndicats
+
+#### Mercredi 17 mai
+
+**Elisabeth Borne** reçoit une parie des syndicats
+
+### Juin 2023
+
 ## Annuaire
 
 ### Personnes

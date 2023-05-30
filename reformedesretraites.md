@@ -236,5 +236,5 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 - CC : **C**onseil **C**onstitutionnel
 - AN : **A**ssemblée **N**ationnale
 - RIP : **R**éférendum d'**I**initiative **P**artagée
-- PM : Premier·e Ministre
-- PR : Président·e de la République
+- PM : **P**remier·e **M**inistre
+- PR : **P**résident·e de la **R**épublique

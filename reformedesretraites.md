@@ -196,6 +196,10 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 
 **Elisabeth Borne** reçoit une parie des syndicats
 
+#### Samedi 27 mai
+
+**Justine Triet** reçoit la Palme d'or pour son film Anatomie d'une chute. Dans son discours, elle dénonce (notamment) la réforme des retraires et la répression politique et policière envers ces opposants.
+
 ### Juin 2023
 
 ## Annuaire
@@ -212,6 +216,7 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 - Philippe Marinez, Secrétaire général de la CGT jusqu'au 31 mars
 - Sophie Binet, Secrétaire générale de la CGT depuis le 1er avril
 - Laurent Berger, Secrétaire général de la CFDT
+- Justine Triet, Réalisatrice française
 
 ### Organisations, groupes
 

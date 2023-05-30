@@ -221,7 +221,7 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 - Sophie Binet, Secrétaire générale de la CGT depuis le 1er avril
 - Laurent Berger, Secrétaire général de la CFDT
 - Justine Triet, Réalisatrice française
-- Éric Coquerel, Député du groupe **France Inssoumise NUPES** et Président de la commission des finances de l'AN
+- Éric Coquerel, Député du groupe *France Insoumise - NUPES* et Président de la commission des finances de l'AN
 
 ### Organisations, groupes
 

@@ -190,15 +190,19 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 
 #### Mardi 16 mai
 
-**Elisabeth Borne** reçoit une parie des syndicats
+**Elisabeth Borne** reçoit une partie des syndicats
 
 #### Mercredi 17 mai
 
-**Elisabeth Borne** reçoit une parie des syndicats
+**Elisabeth Borne** reçoit une partie des syndicats
 
 #### Samedi 27 mai
 
 **Justine Triet** reçoit la Palme d'or pour son film Anatomie d'une chute. Dans son discours, elle dénonce (notamment) la réforme des retraires et la répression politique et policière envers ces opposants.
+
+#### Mardi 30 mai
+
+**Éric Coquerel** valide la proposition d'abrogation proposé par le groupe **LIOT**
 
 ### Juin 2023
 
@@ -217,6 +221,7 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 - Sophie Binet, Secrétaire générale de la CGT depuis le 1er avril
 - Laurent Berger, Secrétaire général de la CFDT
 - Justine Triet, Réalisatrice française
+- Éric Coquerel, Député du groupe **France Inssoumise NUPES** et Président de la commission des finances de l'AN
 
 ### Organisations, groupes
 
@@ -231,3 +236,5 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 - CC : **C**onseil **C**onstitutionnel
 - AN : **A**ssemblée **N**ationnale
 - RIP : **R**éférendum d'**I**initiative **P**artagée
+- PM : Premier·e Ministre
+- PR : Président·e de la République

@@ -202,7 +202,17 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 
 #### Mardi 30 mai
 
-**Éric Coquerel** valide la proposition d'abrogation proposé par le groupe **LIOT**
+**Éric Coquerel** valide la proposition d'abrogation proposé par le groupe **LIOT**.
+Il fournit un argumentaire ayant pour base les jurisprudences sur des cas similaires.
+Il est fortement critiqué par le camp présidentiel qui juge la proposition inconstitutionnelle au motif de l'article 40.
+
+*L’article 40 de la Constitution, inchangé depuis 1958, dispose que « les propositions et amendements formulés par les membres du Parlement ne sont pas recevables lorsque leur adoption aurait pour conséquence soit une diminution des ressources publiques, soit la création ou l’aggravation d’une charge publique ».* - Extrait du site de l'**AN**
+
+#### Mercredi 31 mai
+
+En commission des affaires sociales, l'aticle 1 de la proposition d'abrogation concernant l'age de départ est supprimer à 38 contre 34 (1 abstention, 73 membres présent sur 73).
+
+(L'article pourrait être ainsi rejeté directement par la Présidente de l'Assemblée Nationnale au motif de l'article 40)
 
 ### Juin 2023
 
@@ -222,6 +232,7 @@ Le Conseil Constitutionnel refuse le demande de **RIP** déposé par les parleme
 - Laurent Berger, Secrétaire général de la CFDT
 - Justine Triet, Réalisatrice française
 - Éric Coquerel, Député du groupe *France Insoumise - NUPES* et Président de la commission des finances de l'AN
+- Yael Braun-Pivet, Député du groupe *Renaissance* et Présidente de l'AN
 
 ### Organisations, groupes
 

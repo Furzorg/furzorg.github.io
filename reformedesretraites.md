@@ -212,6 +212,8 @@ Il est fortement critiqué par le camp présidentiel qui juge la proposition inc
 
 En commission des affaires sociales, l'aticle 1 de la proposition d'abrogation concernant l'age de départ est supprimer à 38 contre 34 (1 abstention, 73 membres présent sur 73).
 
+Par la suite, la Présidente de la commission des affaires sociales, Fadila Khattabi bloque la discussion sur les amendements.
+
 (L'article pourrait être ainsi rejeté directement par la Présidente de l'Assemblée Nationnale au motif de l'article 40)
 
 ### Juin 2023
@@ -233,6 +235,7 @@ En commission des affaires sociales, l'aticle 1 de la proposition d'abrogation c
 - Justine Triet, Réalisatrice française
 - Éric Coquerel, Député du groupe *France Insoumise - NUPES* et Président de la commission des finances de l'AN
 - Yael Braun-Pivet, Député du groupe *Renaissance* et Présidente de l'AN
+- Fadila Khattabi, Député du groupe *Renaissance* et Présidente de la comission des affaires socials de l'AN
 
 ### Organisations, groupes
 

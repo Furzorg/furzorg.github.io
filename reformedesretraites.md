@@ -251,7 +251,7 @@ Autres
 
 ### Organisations, groupes
 
-- L'intersydicale : désigne les syndicats de travailleurs (CFDT, CGT, FO, CFE-CGC, CFTC, UNSA et FSU)
+- L'intersyndicale : désigne les syndicats de travailleurs (CFDT, CGT, FO, CFE-CGC, CFTC, UNSA et FSU)
 - CGT : syndicat (**C**onfédération **G**énérale du **T**ravail)
 - Attac : organisation altermondialiste (**A**ssociation pour la **t**axation des **t**ransactions financières et pour l'**a**ction **c**itoyenne)
 - LIOT, groupe politique de l'Assemblée Nationale (**L**ibertés, **I**ndépendants, **O**utre-mer et **T**erritoires)

@@ -222,6 +222,7 @@ Par la suite, la Présidente de la commission des affaires sociales, Fadila Khat
 
 ### Personnes
 
+Executif
 - Emmanuel Macron, Président de la République
 - Elisabeth Borne, Première Ministre
 - Gérald Darmanin, Ministre de l'Intérieur
@@ -229,13 +230,20 @@ Par la suite, la Présidente de la commission des affaires sociales, Fadila Khat
 - Pap Ndiaye, Ministre de l'Éducation nationale et de la Jeunesse
 - Frank Riester, Ministre chargé des Relations avec le Parlement
 - Olivier Véran, Porte-parole du Gouvernement
-- Philippe Marinez, Secrétaire général de la CGT jusqu'au 31 mars
-- Sophie Binet, Secrétaire générale de la CGT depuis le 1er avril
-- Laurent Berger, Secrétaire général de la CFDT
-- Justine Triet, Réalisatrice française
+
+Législateur
 - Éric Coquerel, Député du groupe *France Insoumise - NUPES* et Président de la commission des finances de l'AN
 - Yael Braun-Pivet, Député du groupe *Renaissance* et Présidente de l'AN
 - Fadila Khattabi, Député du groupe *Renaissance* et Présidente de la comission des affaires socials de l'AN
+
+Syndicaliste
+- Philippe Marinez, Secrétaire général de la CGT jusqu'au 31 mars
+- Sophie Binet, Secrétaire générale de la CGT depuis le 1er avril
+- Laurent Berger, Secrétaire général de la CFDT
+- Cyril Chabanier, Président de la CFDT
+
+Autres
+- Justine Triet, Réalisatrice française
 
 ### Organisations, groupes
 

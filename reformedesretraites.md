@@ -218,9 +218,11 @@ Par la suite, la Présidente de la commission des affaires sociales, Fadila Khat
 
 ### Juin 2023
 
+### 
+
 #### Mardi 6 juin
 
-Journée de grève et de manifestation pour le retrait de la réforme des retraites
+Journée de grève et de manifestations pour le retrait de la réforme des retraites à l'appel de l'intersyndicale
 
 ## Annuaire
 
@@ -240,7 +242,7 @@ Législatif
 - Yael Braun-Pivet, Député du groupe *Renaissance* et Présidente de l'AN
 - Fadila Khattabi, Député du groupe *Renaissance* et Présidente de la comission des affaires socials de l'AN
 
-Syndicaliste
+Syndicat
 - Laurent Berger, Secrétaire général de la CFDT
 - Sophie Binet, Secrétaire générale de la CGT *depuis le 1er avril*
 - Cyril Chabanier, Président de la CFDT
@@ -255,8 +257,8 @@ Autres
 - CGT : syndicat (**C**onfédération **G**énérale du **T**ravail)
 - Attac : organisation altermondialiste (**A**ssociation pour la **t**axation des **t**ransactions financières et pour l'**a**ction **c**itoyenne)
 - LIOT, groupe politique de l'Assemblée Nationale (**L**ibertés, **I**ndépendants, **O**utre-mer et **T**erritoires)
-- NUPES, alliance politique regroupant les partis de gauche (**N**ouvelle **U**nion **P**opulaire **E**cologique et **S**ociale)
-
+- NUPES pour **N**ouvelle **U**nion **P**opulaire **E**cologique et **S**ociale est une alliance politique regroupant les partis de gauche : La France Inssoumise (FI), Europe Ecologie Les Vert (EELV), Génération.s, le Parti Socialiste (PS) et le Parti Communiste Français (PCF)
+- LR (**L**es **R**épublicains), groupe politique de droite
 ### Institutions, dispositifs
 
 - CC : **C**onseil **C**onstitutionnel

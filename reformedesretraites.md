@@ -218,6 +218,10 @@ Par la suite, la Présidente de la commission des affaires sociales, Fadila Khat
 
 ### Juin 2023
 
+#### Mardi 6 juin
+
+Journée de grève et de manifestation pour le retrait de la réforme des retraites
+
 ## Annuaire
 
 ### Personnes
@@ -231,19 +235,19 @@ Executif
 - Frank Riester, Ministre chargé des Relations avec le Parlement
 - Olivier Véran, Porte-parole du Gouvernement
 
-Législateur
+Législatif
 - Éric Coquerel, Député du groupe *France Insoumise - NUPES* et Président de la commission des finances de l'AN
 - Yael Braun-Pivet, Député du groupe *Renaissance* et Présidente de l'AN
 - Fadila Khattabi, Député du groupe *Renaissance* et Présidente de la comission des affaires socials de l'AN
 
 Syndicaliste
-- Philippe Marinez, Secrétaire général de la CGT jusqu'au 31 mars
-- Sophie Binet, Secrétaire générale de la CGT depuis le 1er avril
 - Laurent Berger, Secrétaire général de la CFDT
+- Sophie Binet, Secrétaire générale de la CGT *depuis le 1er avril*
 - Cyril Chabanier, Président de la CFDT
+- Philippe Marinez, Secrétaire général de la CGT *jusqu'au 31 mars*
 
 Autres
-- Justine Triet, Réalisatrice française
+- Justine Triet, Réalisatrice française *palme d'or du 76e festival de cannes*
 
 ### Organisations, groupes
 

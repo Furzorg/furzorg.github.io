@@ -10,9 +10,12 @@ Cette page est une prise de note sous forme de frise chronologique consernant la
 
 **Elisabeth Borne** annonce la réforme des retraites.
 
+*L'âge légal de départ sera progressivement porté à 64 ans d'ici 2030.
+La durée de cotisation requise pour toucher une retraite à taux plein passera à 43 annuités à partir de 2027.* (Source : franceinfo)
+
 #### Mardi 17 janvier
 
-**Emmanuel Macron** déjeune avec dix édotorialistes. 
+**Emmanuel Macron** déjeune avec dix édotorialistes. Parmis eux on y trouve **Guillaume Tabard** (Le Figaro), **Dominique Seux** (France Inter, Les Echos), **Françoise Fressoz** (Le Monde) et **Nathalie Saint-Cricq** (France Télévisions). Ce rendez-vous est révélé par POLITICO le 22 janvier. Les invités n'avaient pas le droit de cité directement le **PR**.
 
 #### Jeudi 19 janvier
 
@@ -223,6 +226,10 @@ Par la suite, la Présidente de la commission des affaires sociales, Fadila Khat
 #### Mardi 6 juin
 
 Journée de grève et de manifestations pour le retrait de la réforme des retraites à l'appel de l'intersyndicale
+
+#### Jeudi 8 juin
+
+Vote de la
 
 ## Annuaire
 

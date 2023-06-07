@@ -221,7 +221,9 @@ Par la suite, la Présidente de la commission des affaires sociales, Fadila Khat
 
 ### Juin 2023
 
-### 
+### Dimanche 4 juin
+
+Deux premiers décrets d'application de la réforme des retraites parraisse au Journal officiel
 
 #### Mardi 6 juin
 

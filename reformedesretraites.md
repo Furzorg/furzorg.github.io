@@ -229,6 +229,11 @@ Deux premiers décrets d'application de la réforme des retraites parraisse au J
 
 Journée de grève et de manifestations pour le retrait de la réforme des retraites à l'appel de l'intersyndicale
 
+#### Mercredi 7 juin
+
+**Yael Braun-Pivet** annonce (sur BFMTV) qu'elle refusera, au titre de l'article 40, l'examen (et le vote) de l'amendement visant à rétablir l'article 1 du projet de loi d'abrogation de l'age de départ à la retraite à 64 ans.
+Pourtant cette article bien que supprimer en comission avait été jugé recevable par le **Bureau de l'AN** et le Président de la comission des finances de l'**AN**
+
 #### Jeudi 8 juin
 
 Vote de la

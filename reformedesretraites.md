@@ -236,7 +236,7 @@ Pourtant cette article bien que supprimer en comission avait été jugé recevab
 
 #### Jeudi 8 juin
 
-Vote de la
+Le groupe **LIOT** retire sa proposition de loi après que l'article 1 soit rejeté sans vote par Yael Braun-Pivet
 
 ## Annuaire
 

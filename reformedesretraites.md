@@ -27,7 +27,7 @@ Journée de manifestation contre la réforme des retraites organisée par les as
 
 #### Lundi 23 janvier
 
-Frank Riester reconnaît dans une émission que la réforme pénalisera “un peu” certaines femmes.
+**Frank Riester** reconnaît dans une émission que la réforme pénalisera “un peu” certaines femmes
 
 #### Lundi 30 janvier
 
@@ -35,7 +35,7 @@ Début des débats en commission des affaires sociales
 
 #### Mardi 31 janvier
 
-Deuxième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**.
+Deuxième journée de grève et de manifestation contre la réforme des retraites à l'appel de l'**intersyndicale**
 
 ### Février 2023
 
@@ -45,7 +45,8 @@ Fin des débats en commission des affaires sociales
 
 #### Vendredi 3 février
 
-**Olivier Dussopt** a toute la confiance de la Première ministre (Matignon)
+**Olivier Dussopt** est visé par des accusations de favoritisme dans le cadre de son précédent mandat de maire d'Annonay.
+Il garde néanmoins toute la confiance de la Première ministre (Matignon)
 
 #### Lundi 6 février
 

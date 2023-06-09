@@ -237,7 +237,9 @@ Pourtant cette article bien que supprimer en comission avait été jugé recevab
 
 #### Jeudi 8 juin
 
-Le groupe **LIOT** retire sa proposition de loi après que l'article 1 soit rejeté sans vote par Yael Braun-Pivet
+Le groupe **LIOT** retire sa proposition de loi après que l'article 1 soit rejeté sans vote par **Yael Braun-Pivet**.
+
+Les députés·es opposés·es à la réforme signent *Le serment du 8 juin* un texte pour sceller leur conviction à venir à bout de la réforme au delà de la séquence. 
 
 ## Annuaire
 

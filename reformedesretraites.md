@@ -266,7 +266,7 @@ Syndicat
 - Philippe Marinez, Secrétaire général de la CGT *jusqu'au 31 mars*
 
 Autres
-- Justine Triet, Réalisatrice française *palme d'or du 76e festival de cannes*
+- Justine Triet, Réalisatrice française *palme d'or du 76e festival de Cannes (2023)*
 
 ### Organisations, groupes
 

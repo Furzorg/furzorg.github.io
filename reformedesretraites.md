@@ -239,7 +239,11 @@ Pourtant cette article bien que supprimer en comission avait été jugé recevab
 
 Le groupe **LIOT** retire sa proposition de loi après que l'article 1 soit rejeté sans vote par **Yael Braun-Pivet**.
 
-Les députés·es opposés·es à la réforme signent *Le serment du 8 juin* un texte pour sceller leur conviction à venir à bout de la réforme au delà de la séquence. 
+Les députés·es opposés·es à la réforme signent *Le serment du 8 juin* un texte pour sceller leur conviction à venir à bout de la réforme au delà de la séquence.
+
+#### Mardi 20 juin
+
+Le **COR** publie un nouveau rapport
 
 ## Annuaire
 
@@ -276,6 +280,7 @@ Autres
 - LIOT, groupe politique de l'Assemblée Nationale (**L**ibertés, **I**ndépendants, **O**utre-mer et **T**erritoires)
 - NUPES pour **N**ouvelle **U**nion **P**opulaire **E**cologique et **S**ociale est une alliance politique regroupant les partis de gauche : La France Inssoumise (FI), Europe Ecologie Les Vert (EELV), Génération.s, le Parti Socialiste (PS) et le Parti Communiste Français (PCF)
 - LR (**L**es **R**épublicains), groupe politique de droite
+- COR : **C**onseil d'**O**rientation des **R**etraites
 ### Institutions, dispositifs
 
 - CC : **C**onseil **C**onstitutionnel

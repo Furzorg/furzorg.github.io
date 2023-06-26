@@ -92,7 +92,11 @@ Sixième journée de grève et de manifestation contre la réforme des retraites
 
 #### Mercredi 8 mars
 
-Journée d'action pour la journée des droits des femmes
+Journée d'action pour la journée des droits des femmes.
+
+**Emmanuel Macron** rend un hommage nationnal à **Gisèle Halimi** près de deux ans et demi après sa mort. 
+**Choisir la cause des femmes** (une association qu'elle co-fondé) n'y participe pas jugant hypocryte le président au vu de sa politique.
+Aussi, son fils cadet, Serge Halimi dé
 
 #### Samedi 11 mars
 

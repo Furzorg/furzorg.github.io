@@ -4,10 +4,10 @@
 
 ### Tri des champions de League of Legends par famille politique (2020)
 
-![Image Politique LoL](/images/politiquelol.png "Les familles politiques des champions de League of Legends")
+![Image Politique LoL](/streams/politiquelol.png "Les familles politiques des champions de League of Legends")
 
 ### Reforged League of Legends (2020)
 
 Avec des camarades, en stream, on avait imaginé un meilleur League of Legends : Reforged League of Legends (via @TierMaker).
 
-![Image Reforged LoL](/images/reforgedlol.png "Reforged League of Legends")
+![Image Reforged LoL](/streams/reforgedlol.png "Reforged League of Legends")

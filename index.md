@@ -2,16 +2,15 @@
 
 # Développements
 
-**[Lien vers la page dédiée](https://furzorg.github.io/dev)**
+**[Lien vers la page dédiée](https://furzorg.github.io/developpements/developpements)**
 
 # Streams
 
-**[Lien vers la page dédiée](https://furzorg.github.io/streams)**
+**[Lien vers la page dédiée](https://furzorg.github.io/streams/streams)**
 
 # Frises
 
-- [Réforme des retraites (2023)](https://furzorg.github.io/reformedesretraites) : (travail en cours)
-- Historique 2023 : (dévoilé fin 2023)
+**[Lien vers la page dédiée](https://furzorg.github.io/frises/frises)**
 
 # Liens
 

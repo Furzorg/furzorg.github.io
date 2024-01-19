@@ -1,6 +1,14 @@
-*Dernière actualisation : septembre 2023*
+*Dernière actualisation : janvier 2023*
 
-# Développements
+Furzorg
+*(c'est un pseudo)*
+Dévelopeur, gamer, cinéphile
+
+# A propos
+
+Salut ! 
+
+# Développements 
 
 **[Lien vers la page dédiée](https://furzorg.github.io/developpements/developpements)**
 

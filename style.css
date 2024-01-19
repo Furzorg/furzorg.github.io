@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* 100% de la hauteur de la fenêtre visible */
+    margin: 0;
+}
+
+#content {
+    flex: 1; /* Fait en sorte que le contenu prenne toute la hauteur disponible */
+}
+
+footer {
+    background-color: #37474f; /* Couleur de fond du pied de page */
+    color: #ffffff; /* Couleur du texte du pied de page */
+    padding: 20px; /* Espace à l'intérieur du pied de page */
+    margin-top: auto; /* Fait remonter le pied de page en bas de la page */
+}

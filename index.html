@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Site de Fzg</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/materialize.min.css') }}">
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/Style.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='logos/favicon.ico') }}">
+    <meta name="viewport" lang="fr" content="width=device-width, initial-scale=1.0"/>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='scripts/materialize.min.js') }}"></script>
+</head>
+<body>
+    <nav class="red darken-1" role="navigation">
+        <div class="nav-wrapper container">
+            <a id="logo-container" href="/" class="brand-logo">CineSafe</a>
+        </div>
+    </nav>
+
+    <div id="content">Hello</div>
+
+    <footer class="page-footer blue-grey lighten-1">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5 class="white-text">ReFlex</h5>
+                    <p class="grey-text text-lighten-4">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vehicula magna orci. Ut molestie felis et fringilla rutrum. In vel ipsum quis diam porttitor fringilla a ac mauris.
+                    </p>
+                </div>
+                <div class="col l3 s12">
+                    <h5 class="white-text">Liens</h5>
+                    <ul>
+                        <li><a class="white-text" href="#!">(Work In Progress)</a></li>
+                    </ul>
+                </div>
+                <div class="col l3 s12">
+                    <h5 class="white-text">Concepteurs</h5>
+                    <ul>
+                        <li>Furzorg</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+            Made with <a class="blue-grey-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

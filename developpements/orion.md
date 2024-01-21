@@ -1,3 +1,0 @@
-# Orion
-
-Work in progress

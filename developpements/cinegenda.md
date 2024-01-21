@@ -1,3 +1,0 @@
-# Cinegenda
-
-Work in progress
